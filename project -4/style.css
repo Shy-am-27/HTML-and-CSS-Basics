@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.container{
+    background-color: hsla(43, 94%, 48%, 0.683);
+    height : 100vh;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+
+}
+.input{
+    margin-top: 125px;
+    background-color: hsl(73, 90%, 36%);
+    width: 25%;
+    height: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    
+}
+.storage{
+    margin-top: 400px;
+    background-color: hsl(73, 90%, 36%);
+    color: red;
+    width: 40%;
+    height: 25%;
+    display: flex;
+    position: absolute;
+    overflow: auto;
+    
+}
+.search{
+    width: 200px;
+    height: 28px;
+    border-radius: 5px solid white;
+}
+
+.button{
+    padding: 2px;
+    margin: 5px;
+    height: 33px;
+    border-radius: 2px;
+}
+ol{
+    margin : 20px 30px 20px 30px;
+    color: black;
+    font-size: 17px;
+    
+}
+li{
+    padding-bottom: 8px;
+}
