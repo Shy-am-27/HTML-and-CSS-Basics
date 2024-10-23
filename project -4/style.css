@@ -15,7 +15,7 @@
 .input{
     margin-top: 125px;
     background-color: hsl(73, 90%, 36%);
-    width: 25%;
+    width: 40%;
     height: 25%;
     display: flex;
     justify-content: center;
@@ -28,7 +28,7 @@
     background-color: hsl(73, 90%, 36%);
     color: red;
     width: 40%;
-    height: 25%;
+    height: 35%;
     display: flex;
     position: absolute;
     overflow: auto;
